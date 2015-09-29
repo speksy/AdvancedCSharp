@@ -1,0 +1,5 @@
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_1_SortArrayOfNumbers\bin\Debug\Problem_1_SortArrayOfNumbers.exe.config
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_1_SortArrayOfNumbers\bin\Debug\Problem_1_SortArrayOfNumbers.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_1_SortArrayOfNumbers\bin\Debug\Problem_1_SortArrayOfNumbers.pdb
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_1_SortArrayOfNumbers\obj\Debug\Problem_1_SortArrayOfNumbers.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_1_SortArrayOfNumbers\obj\Debug\Problem_1_SortArrayOfNumbers.pdb

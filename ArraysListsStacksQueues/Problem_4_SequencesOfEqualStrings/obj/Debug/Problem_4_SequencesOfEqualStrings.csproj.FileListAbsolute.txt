@@ -1,0 +1,6 @@
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_4_SequencesOfEqualStrings\bin\Debug\Problem_4_SequencesOfEqualStrings.exe.config
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_4_SequencesOfEqualStrings\bin\Debug\Problem_4_SequencesOfEqualStrings.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_4_SequencesOfEqualStrings\bin\Debug\Problem_4_SequencesOfEqualStrings.pdb
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_4_SequencesOfEqualStrings\obj\Debug\Problem_4_SequencesOfEqualStrings.csprojResolveAssemblyReference.cache
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_4_SequencesOfEqualStrings\obj\Debug\Problem_4_SequencesOfEqualStrings.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_4_SequencesOfEqualStrings\obj\Debug\Problem_4_SequencesOfEqualStrings.pdb

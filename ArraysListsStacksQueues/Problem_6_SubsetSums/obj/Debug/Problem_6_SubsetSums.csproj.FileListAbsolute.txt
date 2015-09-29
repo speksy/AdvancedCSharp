@@ -1,0 +1,5 @@
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_6_SubsetSums\bin\Debug\Problem_6_SubsetSums.exe.config
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_6_SubsetSums\bin\Debug\Problem_6_SubsetSums.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_6_SubsetSums\bin\Debug\Problem_6_SubsetSums.pdb
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_6_SubsetSums\obj\Debug\Problem_6_SubsetSums.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_6_SubsetSums\obj\Debug\Problem_6_SubsetSums.pdb

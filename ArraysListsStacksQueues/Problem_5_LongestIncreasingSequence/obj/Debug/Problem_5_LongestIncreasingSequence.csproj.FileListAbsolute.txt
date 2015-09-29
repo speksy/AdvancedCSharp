@@ -1,0 +1,6 @@
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_5_LongestIncreasingSequence\bin\Debug\Problem_5_LongestIncreasingSequence.exe.config
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_5_LongestIncreasingSequence\bin\Debug\Problem_5_LongestIncreasingSequence.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_5_LongestIncreasingSequence\bin\Debug\Problem_5_LongestIncreasingSequence.pdb
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_5_LongestIncreasingSequence\obj\Debug\Problem_5_LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_5_LongestIncreasingSequence\obj\Debug\Problem_5_LongestIncreasingSequence.exe
+C:\Users\SPEKSY\documents\visual studio 2013\Projects\ArraysListsStacksQueues\Problem_5_LongestIncreasingSequence\obj\Debug\Problem_5_LongestIncreasingSequence.pdb
